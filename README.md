@@ -1,2 +1,4 @@
-# cs305_module05
-This is a GitHub Rep for NAU's CS 305 Module 5
+# cs305_module05: Discord Bot
+A Discord bot which allows interaction with the Discord API tp provide moderation to communities.<br><br>
+
+---
